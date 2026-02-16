@@ -69,8 +69,10 @@ while continuously pushing beyond my comfort zone.
   <!-- <span style="display: inline-block; width: 80px; text-align: center;"><strong>MongoDB Atlas</strong></span> -->
 </p>
 
-#### **Cloud & DevOps Technologies**
-(Learning / Exploring)
+#### Cloud & DevOps Technologies *(Exploring)*
+
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
