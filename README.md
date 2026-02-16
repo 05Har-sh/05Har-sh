@@ -8,8 +8,7 @@
 ---
 
 ### 🚀 About Me
-💡 <b>Curious engineer obsessed with how systems actually work</b>
-
+💡 Curious engineer obsessed with how systems actually work<br>
 My journey revolves around mastering <b>backend development</b> — 
 not just by using tools, but by understanding the <b>fundamentals behind them</b>.
 
@@ -18,7 +17,6 @@ not just by using tools, but by understanding the <b>fundamentals behind them</b
 • Data Structures & Algorithms<br>
 • Docker & Kubernetes<br>
 • System Design Fundamentals<br>
-
 I enjoy turning complex problems into 
 <b>clean, maintainable, and scalable solutions</b> 
 while continuously pushing beyond my comfort zone.
