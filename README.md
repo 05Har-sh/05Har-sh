@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Pardeshi</h1>
-<h3 align="center">Backend Developer | Java | Spring Boot | REST API </h3>
+<h3 align="center">Backend Developer | Java • Spring Boot • REST APIs • Docker </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Java;Spring+Boot+%7C+Microservices;RESTful+APIs+%7C+Clean+Code;Always+Learning+%26+Building" alt="Typing SVG" />
@@ -8,17 +8,22 @@
 ---
 
 ### 🚀 About Me
-💡 Curious engineer obsessed with how systems actually work<br>
-My journey revolves around mastering backend development, not just by using tools — but by understanding the fundamentals behind them.
+💡 <b>Curious engineer obsessed with how systems actually work</b>
 
-I’m actively working on:<br>
+My journey revolves around mastering <b>backend development</b> — 
+not just by using tools, but by understanding the <b>fundamentals behind them</b>.
+
+<b>Currently focused on:<br>
 • Backend Development (Java / Spring Boot)<br>
 • Data Structures & Algorithms<br>
 • Docker & Kubernetes<br>
 • System Design Fundamentals<br>
 
-I enjoy turning complex problems into clean, maintainable solutions and continuously pushing beyond my comfort zone.<br>
-📌 Open to: Internships / Backend Roles / OSS Collaboration
+I enjoy turning complex problems into 
+<b>clean, maintainable, and scalable solutions</b> 
+while continuously pushing beyond my comfort zone.
+
+📌 <b>Open to:</b> Internships • Backend Roles • OSS Collaboration
 
 ---
 
@@ -29,8 +34,7 @@ I enjoy turning complex problems into clean, maintainable solutions and continuo
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
@@ -38,8 +42,8 @@ I enjoy turning complex problems into clean, maintainable solutions and continuo
 <p align="center">
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>Java</strong></span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>Spring</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <span style="display: inline-block; width: 60px; text-align: center;"><strong>Spring</strong></span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>Maven</strong></span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; width: 70px; text-align: center;"><strong>Spring Boot</strong></span>
@@ -53,7 +57,7 @@ I enjoy turning complex problems into clean, maintainable solutions and continuo
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Atlas" width="60" height="60"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Atlas" width="60" height="60"/> -->
 </p>
 <p align="center">
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>MySQL</strong></span>
@@ -62,10 +66,11 @@ I enjoy turning complex problems into clean, maintainable solutions and continuo
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>MongoDB</strong></span>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 80px; text-align: center;"><strong>MongoDB Atlas</strong></span>
+  <!-- <span style="display: inline-block; width: 80px; text-align: center;"><strong>MongoDB Atlas</strong></span> -->
 </p>
 
 #### **Cloud & DevOps Technologies**
+(Learning / Exploring)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -101,6 +106,12 @@ I enjoy turning complex problems into clean, maintainable solutions and continuo
   <span style="display: inline-block; width: 60px; text-align: center;"><strong>Postman</strong></span>
 </p>
 
+
+<!--### 📌 Featured Work
+• [Project Name] – Short one-line value proposition  
+• [Project Name] – What problem it solves  -->
+
+
 ---
 
 <br>
@@ -108,6 +119,7 @@ I enjoy turning complex problems into clean, maintainable solutions and continuo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=05Har-sh&theme=react-dark&hide_border=true&bg_color=ffffff00&color=0969da&line=0969da&point=e36209" alt="Contribution Graph" width="90%">
 </div>
 <br><br>
+
 
 
 ### 🌐 Ping Me!
