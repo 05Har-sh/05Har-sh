@@ -8,10 +8,17 @@
 ---
 
 ### 🚀 About Me
+💡 Curious engineer obsessed with how systems actually work<br>
+My journey revolves around mastering backend development, not just by using tools — but by understanding the fundamentals behind them.
 
-- 🎓 **Junior majoring in Computer Engineering** SPPU (2023-2027)
-- 💼 **Former Summer Intern** at Scaler School of Technology (YIIC 2nd Edition)
-- 🌱 Currently mastering **Java Backend Development** and **Microservices Architecture**
+I’m actively working on:<br>
+• Backend Development (Java / Spring Boot)<br>
+• Data Structures & Algorithms<br>
+• Docker & Kubernetes<br>
+• System Design Fundamentals<br>
+
+I enjoy turning complex problems into clean, maintainable solutions and continuously pushing beyond my comfort zone.<br>
+📌 Open to: Internships / Backend Roles / OSS Collaboration
 
 ---
 
