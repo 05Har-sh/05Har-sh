@@ -28,91 +28,64 @@ while continuously pushing beyond my comfort zone.
 ### 🛠️ Technical Arsenal
 
 #### **Development Stack**
+<h4 align="center">Core Backend Stack</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
-</p>
-<p align="center">
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>Java</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- <span style="display: inline-block; width: 60px; text-align: center;"><strong>Spring</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>Maven</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 70px; text-align: center;"><strong>Spring Boot</strong></span>
-</p>
-
-#### **Database Technologies**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Atlas" width="60" height="60"/> -->
-</p>
-<p align="center">
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>MySQL</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>PostgreSQL</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>MongoDB</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- <span style="display: inline-block; width: 80px; text-align: center;"><strong>MongoDB Atlas</strong></span> -->
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=java" width="60"/><br>
+    <strong>Java</strong>
+  </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=maven" width="60"/><br>
+    <strong>Maven</strong>
+  </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/><br>
+    <strong>Spring Boot</strong>
+  </kbd>
 </p>
 
-#### Cloud & DevOps Technologies *(Exploring)*
-
-
-
+<h4 align="center">Database Technologies</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=googlecloud" alt="Google Cloud" width="60" height="60"/>
-</p>
-<p align="center">
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>AWS</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>Git</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>GitHub</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 80px; text-align: center;"><strong>Google Cloud</strong></span>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>
+    <strong>MySQL</strong>
+  </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=postgresql" width="60"/><br>
+    <strong>PostgreSQL</strong>
+  </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>
+    <strong>MongoDB</strong>
+  </kbd>
 </p>
 
-#### **Development Tools & IDEs**
+<h4 align="center">Cloud & DevOps Technologies</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60" height="60"/>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=aws" width="60"/><br>
+    <strong>AWS</strong>
+  </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=git" width="60"/><br>
+    <strong>Git</strong>
+  </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=github" width="60"/><br>
+    <strong>GitHub</strong>
+  </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=googlecloud" width="60"/><br>
+    <strong>GCP</strong>
+  </kbd>
 </p>
-<p align="center">
-  <span style="display: inline-block; width: 80px; text-align: center;"><strong>IntelliJ IDEA</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>VS Code</strong></span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="display: inline-block; width: 60px; text-align: center;"><strong>Postman</strong></span>
-</p>
-
-
-<!--### 📌 Featured Work
-• [Project Name] – Short one-line value proposition  
-• [Project Name] – What problem it solves  -->
-
-
----
 
 <br>
 <div align="center">
